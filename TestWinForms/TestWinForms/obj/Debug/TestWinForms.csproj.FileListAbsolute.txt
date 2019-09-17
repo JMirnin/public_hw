@@ -1,0 +1,10 @@
+E:\Git\private\TestWinForms\TestWinForms\obj\Debug\TestWinForms.csprojAssemblyReference.cache
+E:\Git\private\TestWinForms\TestWinForms\obj\Debug\TestWinForms.Form1.resources
+E:\Git\private\TestWinForms\TestWinForms\obj\Debug\TestWinForms.Properties.Resources.resources
+E:\Git\private\TestWinForms\TestWinForms\obj\Debug\TestWinForms.csproj.GenerateResource.cache
+E:\Git\private\TestWinForms\TestWinForms\obj\Debug\TestWinForms.csproj.CoreCompileInputs.cache
+E:\Git\private\TestWinForms\TestWinForms\bin\Debug\TestWinForms.exe.config
+E:\Git\private\TestWinForms\TestWinForms\bin\Debug\TestWinForms.exe
+E:\Git\private\TestWinForms\TestWinForms\bin\Debug\TestWinForms.pdb
+E:\Git\private\TestWinForms\TestWinForms\obj\Debug\TestWinForms.exe
+E:\Git\private\TestWinForms\TestWinForms\obj\Debug\TestWinForms.pdb
