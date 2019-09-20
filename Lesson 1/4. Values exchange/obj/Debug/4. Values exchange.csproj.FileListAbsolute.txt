@@ -1,7 +1,0 @@
-E:\Git\private\1. Profile\4. Values exchange\bin\Debug\_4.Values_exchange.exe.config
-E:\Git\private\1. Profile\4. Values exchange\bin\Debug\_4.Values_exchange.exe
-E:\Git\private\1. Profile\4. Values exchange\bin\Debug\_4.Values_exchange.pdb
-E:\Git\private\1. Profile\4. Values exchange\obj\Debug\4. Values exchange.csprojAssemblyReference.cache
-E:\Git\private\1. Profile\4. Values exchange\obj\Debug\4. Values exchange.csproj.CoreCompileInputs.cache
-E:\Git\private\1. Profile\4. Values exchange\obj\Debug\_4.Values_exchange.exe
-E:\Git\private\1. Profile\4. Values exchange\obj\Debug\_4.Values_exchange.pdb
