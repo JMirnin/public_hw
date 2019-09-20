@@ -1,0 +1,7 @@
+E:\Git\private\1. Profile\1. Profile\obj\Debug\1. Profile.csprojAssemblyReference.cache
+E:\Git\private\1. Profile\1. Profile\obj\Debug\1. Profile.csproj.CoreCompileInputs.cache
+E:\Git\private\1. Profile\1. Profile\bin\Debug\_1.Profile.exe.config
+E:\Git\private\1. Profile\1. Profile\bin\Debug\_1.Profile.exe
+E:\Git\private\1. Profile\1. Profile\bin\Debug\_1.Profile.pdb
+E:\Git\private\1. Profile\1. Profile\obj\Debug\_1.Profile.exe
+E:\Git\private\1. Profile\1. Profile\obj\Debug\_1.Profile.pdb

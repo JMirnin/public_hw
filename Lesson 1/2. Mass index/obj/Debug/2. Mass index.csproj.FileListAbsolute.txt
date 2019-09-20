@@ -1,0 +1,7 @@
+E:\Git\private\1. Profile\2. Mass index\bin\Debug\_2.Mass_index.exe.config
+E:\Git\private\1. Profile\2. Mass index\bin\Debug\_2.Mass_index.exe
+E:\Git\private\1. Profile\2. Mass index\bin\Debug\_2.Mass_index.pdb
+E:\Git\private\1. Profile\2. Mass index\obj\Debug\2. Mass index.csprojAssemblyReference.cache
+E:\Git\private\1. Profile\2. Mass index\obj\Debug\2. Mass index.csproj.CoreCompileInputs.cache
+E:\Git\private\1. Profile\2. Mass index\obj\Debug\_2.Mass_index.exe
+E:\Git\private\1. Profile\2. Mass index\obj\Debug\_2.Mass_index.pdb

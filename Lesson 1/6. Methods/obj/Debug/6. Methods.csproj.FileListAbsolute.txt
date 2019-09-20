@@ -1,0 +1,7 @@
+E:\Git\private\1. Profile\6. Methods\bin\Debug\_6.Methods.exe.config
+E:\Git\private\1. Profile\6. Methods\bin\Debug\_6.Methods.exe
+E:\Git\private\1. Profile\6. Methods\bin\Debug\_6.Methods.pdb
+E:\Git\private\1. Profile\6. Methods\obj\Debug\6. Methods.csprojAssemblyReference.cache
+E:\Git\private\1. Profile\6. Methods\obj\Debug\6. Methods.csproj.CoreCompileInputs.cache
+E:\Git\private\1. Profile\6. Methods\obj\Debug\_6.Methods.exe
+E:\Git\private\1. Profile\6. Methods\obj\Debug\_6.Methods.pdb

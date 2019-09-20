@@ -1,0 +1,12 @@
+E:\Git\private\1. Profile\5. Print information\bin\Debug\_5.Print_information.exe.config
+E:\Git\private\1. Profile\5. Print information\bin\Debug\_5.Print_information.exe
+E:\Git\private\1. Profile\5. Print information\bin\Debug\_5.Print_information.pdb
+E:\Git\private\1. Profile\5. Print information\obj\Debug\5. Print information.csproj.CoreCompileInputs.cache
+E:\Git\private\1. Profile\5. Print information\obj\Debug\_5.Print_information.exe
+E:\Git\private\1. Profile\5. Print information\obj\Debug\_5.Print_information.pdb
+V:\GitRepos\Lesson 1\5. Print information\bin\Debug\_5.Print_information.exe.config
+V:\GitRepos\Lesson 1\5. Print information\bin\Debug\_5.Print_information.exe
+V:\GitRepos\Lesson 1\5. Print information\bin\Debug\_5.Print_information.pdb
+V:\GitRepos\Lesson 1\5. Print information\obj\Debug\5. Print information.csproj.CoreCompileInputs.cache
+V:\GitRepos\Lesson 1\5. Print information\obj\Debug\_5.Print_information.exe
+V:\GitRepos\Lesson 1\5. Print information\obj\Debug\_5.Print_information.pdb

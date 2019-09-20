@@ -1,0 +1,7 @@
+E:\Git\private\1. Profile\3. Points distance\bin\Debug\_3.Points_distance.exe.config
+E:\Git\private\1. Profile\3. Points distance\bin\Debug\_3.Points_distance.exe
+E:\Git\private\1. Profile\3. Points distance\bin\Debug\_3.Points_distance.pdb
+E:\Git\private\1. Profile\3. Points distance\obj\Debug\3. Points distance.csproj.CoreCompileInputs.cache
+E:\Git\private\1. Profile\3. Points distance\obj\Debug\_3.Points_distance.exe
+E:\Git\private\1. Profile\3. Points distance\obj\Debug\_3.Points_distance.pdb
+E:\Git\private\1. Profile\3. Points distance\obj\Debug\3. Points distance.csprojAssemblyReference.cache
